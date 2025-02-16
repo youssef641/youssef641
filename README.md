@@ -5,7 +5,7 @@
 Welcome to my GitHub! I'm a **Tunisian Cloud Engineer** and a recent graduate passionate about **OpenStack, Kubernetes, Docker, and automation**. I love working with cloud technologies and contributing to open-source projects.
 
 ## 🔧 Skills & Technologies:
-- ![Cloud Platforms](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20OpenStack-blue)
+- ![Cloud Platforms](https://img.shields.io/badge/AWS%20%7C%20Azure%20%7C%20OpenStack-blue)
 - ![Containerization](https://img.shields.io/badge/Containers-Docker%20%7C%20Kubernetes-blue)
 - ![Infrastructure as Code](https://img.shields.io/badge/IaC-Terraform%20%7C%20Ansible-blue)
 - ![CI/CD & Automation](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins-blue)
