@@ -8,19 +8,17 @@ Welcome to my GitHub! I'm a **Tunisian Cloud Engineer** and a recent graduate pa
 - **Cloud Platforms:** OpenStack, AWS, Azure
 - **Containerization & Orchestration:** Docker, Kubernetes
 - **Infrastructure as Code:** Terraform, Ansible
-- **CI/CD & Automation:** GitHub Actions, Jenkins
-- **Scripting & Development:** Python, Bash
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **CI/CD & Automation:**  Jenkins
+
 
 ## 🌱 What I'm Learning:
-- Advanced Kubernetes concepts & cloud-native architectures
+- Advanced Kubernetes concepts 
 - Security best practices for DevOps
 - Serverless computing & edge computing
 
 ## 📫 Let's Connect:
-- **LinkedIn:** [linkedin.com/in/youssefbouguerba](#)
-- **GitHub:** [github.com/YoussefBouguerba](#)
-- **Email:** [your.email@example.com](#)
+- **LinkedIn:** [www.linkedin.com/in/bouguerba-youssef-a54aa3226]
+- **Email:** [bouguerbay@gmail.com](#)
 
 I'm always open to collaboration and new opportunities. Feel free to reach out!
 
